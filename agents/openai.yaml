@@ -1,0 +1,4 @@
+interface:
+  display_name: "Director Storyboard V3 RAG"
+  short_description: "Structured AI video prompts with markdown shot-template RAG"
+  default_prompt: "Use $director-storyboard-github-v3 to turn my script into structured AI video prompts with visual bible, reference roles, shot-ready gates, markdown RAG shot templates, detailed action, micro-expression, camera, lighting, sound, negatives, transitions, and retake rules."
