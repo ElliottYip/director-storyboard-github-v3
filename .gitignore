@@ -1,0 +1,12 @@
+.env
+.env.local
+.env.*.local
+
+outputs/
+generated/
+tmp/
+.DS_Store
+
+*.log
+*.zip
+*.skill
